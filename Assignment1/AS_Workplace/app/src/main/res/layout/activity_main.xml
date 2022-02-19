@@ -20,8 +20,9 @@
         android:id="@+id/textViewScreen"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:gravity="end|center"
-        android:paddingEnd="10dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
         android:background="@drawable/circle"
         android:textSize="30sp"
         tools:ignore="RtlSymmetry" />
