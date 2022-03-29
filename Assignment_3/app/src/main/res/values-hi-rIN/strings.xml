@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">असाइनमेंट_3</string>
+    <string name="fragmentLayout_sampleText">प्रशन</string>
+    <string name="buttonFalse">ग़लत</string>
+    <string name="answer2">ग़लत उत्तर</string>
+    <string name="answer3">ग़लत उत्तर</string>
+    <string name="answer7">ग़लत उत्तर</string>
+    <string name="buttonTrue">सही</string>
+    <string name="answer1">सही उत्तर</string>
+    <string name="answer4">सही उत्तर</string>
+    <string name="answer5">सही उत्तर</string>
+    <string name="answer6">सही उत्तर</string>
+    <string name="answer8">सही उत्तर</string>
+    <string name="OverAllAverage">औसत प्राप्त करें</string>
+    <string name="NumberOfQuestions">प्रश्नों की संख्या का चयन करें</string>
+    <string name="ResetTheResult">सहेजे गए परिणाम को रीसेट करें</string>
+    <string name="DialogFragmentButtonOK">ठीक</string>
+    <string name="DialogFragmentButtonCancel">रद्द करें</string>
+    <string name="DialogFragmentTextView">8 के बराबर या उससे कम प्रश्नों की संख्या दर्ज करें</string>
+    <string name="question1">U.S.A में पैन अमेरिकन हाईवे दुनिया का सबसे लंबा हाईवे है</string>
+    <string name="question2">लीवर मानव शरीर का सबसे बड़ा अंग है</string>
+    <string name="question3">हैरी पॉटर की पहली उड़ने वाली झाड़ू को फायरबोल्ट कहा जाता है</string>
+    <string name="question4">फुटबॉलर क्रिस्टियानो रोनाल्डो इंस्टाग्राम और फेसबुक पर सबसे ज्यादा फॉलो किए जाने वाले व्यक्ति हैं (2021 में)</string>
+    <string name="question5">शराब पीने के बाद, आपके दिमाग को इस पर प्रतिक्रिया शुरू करने में 6 मिनट का समय लगता है</string>
+    <string name="question6">सिंगर बिली इलिश का पूरा नाम बिली इलिश पाइरेट बेयर्ड ओ\'कोनेल है</string>
+    <string name="question7">स्टेक ब्रोकोली में नियमित आकार की ब्रोकली की तुलना में अधिक प्रोटीन होता है</string>
+    <string name="question8">लाइटर का आविष्कार माचिस से पहले किया गया था</string>
+    <string name="displayAverageMessage">आपके सही उत्तर / प्रश्नों की कुल संख्या = </string>
+    <string name="saveAverageMessage">आपका परिणाम सहेजा गया है।</string>
+    <string name="numberOfQuestionsSelected"> प्रश्न चुने गए हैं</string>
+    <string name="numberOfQuestionsNotSelected">प्रश्नों की संख्या नहीं चुनी गई</string>
+    <string name="finalResult">परिणाम</string>
+    <string name="finalResultMessage1">"आपका स्कोर: "</string>
+    <string name="finalResultMessage2">" से "</string>
+    <string name="DialogFragmentButtonSAVE">सहेजें</string>
+    <string name="questionSelectionFragmentError1">मान्य नंबर दर्ज करें</string>
+    <string name="questionSelectionFragmentError2">प्रश्नों की संख्या दर्ज करें या रद्द करें</string>
+    <string name="correctAnswer">सही उत्तर</string>
+    <string name="inCorrectAnswer">ग़लत उत्तर</string>
+</resources>

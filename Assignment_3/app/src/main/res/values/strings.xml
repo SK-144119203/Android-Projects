@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Assignment_3</string>
+    <string name="fragmentLayout_sampleText">Questions</string>
+    <string name="buttonTrue">True</string>
+    <string name="buttonFalse">False</string>
+    <string name="OverAllAverage">Get The Average</string>
+    <string name="NumberOfQuestions">Select the number of Question</string>
+    <string name="ResetTheResult">Reset the saved Result</string>
+    <string name="DialogFragmentButtonOK">OK</string>
+    <string name="DialogFragmentButtonSAVE">SAVE</string>
+    <string name="DialogFragmentButtonCancel">CANCEL</string>
+    <string name="DialogFragmentTextView">Enter the number of questions equal to or less than 8</string>
+
+
+    <string name="question1">The Pan American Highway in the U.S.A. is the world’s longest highway</string>
+    <string name="answer1">Correct</string>
+    <string name="question2">The liver is the largest organ in the human body</string>
+    <string name="answer2">inCorrect</string>
+    <string name="question3">Harry Potter’s first flying broomstick is called Firebolt</string>
+    <string name="answer3">inCorrect</string>
+    <string name="question4">Footballer Cristiano Ronaldo is the most-followed person on Instagram and Facebook (in 2021)</string>
+    <string name="answer4">Correct</string>
+    <string name="question5">After you drink alcohol, it takes your brain 6 minutes to start reacting to it</string>
+    <string name="answer5">Correct</string>
+    <string name="question6">Singer Billie Eilish’s full name is Billie Eilish Pirate Baird O’Connell</string>
+    <string name="answer6">Correct</string>
+    <string name="question7">Steak broccoli contains more protein than a regular-sized broccoli</string>
+    <string name="answer7">inCorrect</string>
+    <string name="question8">The lighter was invented before the matches</string>
+    <string name="answer8">Correct</string>
+
+
+    <string name="displayAverageMessage">Your Correct answers / Total number of questions = </string>
+    <string name="saveAverageMessage">Your result is saved.</string>
+    <string name="numberOfQuestionsSelected">Questions are selected</string>
+    <string name="numberOfQuestionsNotSelected">Number of question not selected</string>
+    <string name="finalResult">Result</string>
+    <string name="finalResultMessage1">Your Score is: </string>
+    <string name="finalResultMessage2"> out of </string>
+    <string name="questionSelectionFragmentError1">Enter valid number</string>
+    <string name="questionSelectionFragmentError2">Enter number of question or select CANCEL</string>
+    <string name="correctAnswer">Correct</string>
+    <string name="inCorrectAnswer">inCorrect</string>
+</resources>
