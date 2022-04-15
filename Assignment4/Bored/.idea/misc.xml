@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2965" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/border.xml" value="0.2965" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/ic_cancel.xml" value="0.2965" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/ic_clear.xml" value="0.2965" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/ic_home.xml" value="0.2575" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2965" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/ic_launcher_background_background.xml" value="0.1935" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/ic_launcher_background_final_background.xml" value="0.1935" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/ic_launcher_final_background_background.xml" value="0.1935" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/ic_reload.xml" value="0.2015" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/ic_settings.xml" value="0.2015" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/ic_star_empty.xml" value="0.1" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/drawable/ic_star_filled.xml" value="0.2015" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/layout/activity_choose_customization.xml" value="0.3625" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/layout/activity_favourites.xml" value="0.3625" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/layout/activity_main_screen.xml" value="0.3625" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/layout/favourites_row.xml" value="0.3625" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/menu/bottombarmenu.xml" value="0.3625" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/menu/participants_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/menu/type_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2575" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_final.xml" value="0.1935" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_final_round.xml" value="0.1935" />
+        <entry key="..\:/Users/satya/OneDrive/Desktop/Bored-master/Bored-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2575" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
